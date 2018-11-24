@@ -1,0 +1,17 @@
+.container{
+  margin: 200px 0;
+  text-align: center;
+}
+
+.cust-timepicker{
+  width: 164px !important;
+}
+
+.time-range > .cust-timepicker:first-child{
+  margin-right: 4px !important;
+}
+
+.section{
+  margin-bottom: 30px;
+}
+
